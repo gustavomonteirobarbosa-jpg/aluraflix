@@ -1,0 +1,12 @@
+body{
+    color:chartreuse;
+    background:black;
+    margin: 0px;
+
+}
+header{
+    border-bottom: solid 2px, rgb(10, 250, 90);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(10, 250, 90);
+}
